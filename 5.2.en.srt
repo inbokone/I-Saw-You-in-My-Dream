@@ -1,0 +1,989 @@
+﻿1
+00:00:07,800 --> 00:00:08,320
+Mom!
+
+2
+00:00:10,080 --> 00:00:10,600
+Mom!
+
+3
+00:00:10,600 --> 00:00:11,120
+Ai!
+
+4
+00:00:11,840 --> 00:00:12,360
+Ai!
+
+5
+00:00:12,360 --> 00:00:13,120
+Help me, Mom!
+
+6
+00:00:13,840 --> 00:00:14,760
+Ai, Mom is here, sweetie.
+
+7
+00:00:14,760 --> 00:00:16,080
+Mom is here, sweetie.
+
+8
+00:00:16,400 --> 00:00:18,720
+Don't be scared, Mom is here.
+
+9
+00:00:18,720 --> 00:00:19,240
+Mom is here.
+
+10
+00:00:21,360 --> 00:00:22,120
+Mom!
+
+11
+00:00:25,680 --> 00:00:26,920
+Don't be scared.
+
+12
+00:00:29,680 --> 00:00:30,360
+Mom.
+
+13
+00:00:30,360 --> 00:00:31,400
+Mom is here now, sweetie.
+
+14
+00:00:32,240 --> 00:00:33,560
+It's okay, don't be scared, sweetie.
+
+15
+00:00:35,400 --> 00:00:36,600
+Don't be scared, sweetie.
+
+16
+00:00:36,600 --> 00:00:37,560
+Don't cry.
+
+17
+00:00:37,560 --> 00:00:38,640
+Let's go.
+
+18
+00:00:39,360 --> 00:00:40,760
+Don't be scared, sweetie.
+
+19
+00:00:40,760 --> 00:00:41,760
+Mom is here.
+
+20
+00:00:49,400 --> 00:00:50,280
+Don't cry.
+
+21
+00:00:57,640 --> 00:00:58,880
+I never knew that.
+
+22
+00:01:01,200 --> 00:01:02,600
+How could you?
+
+23
+00:01:03,600 --> 00:01:04,560
+I never told you.
+
+24
+00:01:10,760 --> 00:01:11,280
+What?
+
+25
+00:01:12,560 --> 00:01:13,200
+Don't touch me.
+
+26
+00:02:01,960 --> 00:02:05,240
+Can my dreams just help me choose my major?
+
+27
+00:02:32,040 --> 00:02:33,640
+(I think you should stop looking for a dream.)
+
+28
+00:02:34,080 --> 00:02:36,080
+(Stop looking down a path you can't see.)
+
+29
+00:02:36,560 --> 00:02:38,560
+(Try looking at yourself instead.)
+
+30
+00:02:48,280 --> 00:02:51,840
+(I think you might discover something special about yourself.)
+
+31
+00:04:45,800 --> 00:04:46,680
+Shit.
+
+32
+00:04:59,520 --> 00:05:02,040
+Ai, take a sandwich with you, sweetie.
+
+33
+00:05:02,680 --> 00:05:03,800
+I'm going now, Mom, I don't have time.
+
+34
+00:05:03,800 --> 00:05:04,320
+Oh.
+
+35
+00:05:12,720 --> 00:05:15,160
+Ai, I'll give you a ride.
+
+36
+00:05:30,400 --> 00:05:31,280
+Hey, what time is it?
+
+37
+00:05:32,960 --> 00:05:34,400
+It's almost presentation time.
+
+38
+00:05:36,680 --> 00:05:37,720
+Try calling him.
+
+39
+00:05:38,120 --> 00:05:38,640
+Uh.
+
+40
+00:05:53,480 --> 00:05:54,360
+Let's go, Ai.
+
+41
+00:06:00,560 --> 00:06:01,040
+What is it?
+
+42
+00:06:01,800 --> 00:06:03,600
+Here, take this for the fare. Hurry up.
+
+43
+00:06:03,600 --> 00:06:04,360
+I'm leaving now.
+
+44
+00:06:06,920 --> 00:06:08,200
+Bye-bye, I'm off.
+
+45
+00:06:08,360 --> 00:06:09,320
+Bye-bye.
+
+46
+00:06:26,400 --> 00:06:27,320
+Wait for me, please!
+
+47
+00:06:44,320 --> 00:06:45,240
+He's not answering.
+
+48
+00:06:46,160 --> 00:06:47,360
+What's going on?
+
+49
+00:06:48,960 --> 00:06:49,920
+Here he is!
+
+50
+00:06:52,400 --> 00:06:53,680
+Finally, you're late.
+
+51
+00:06:53,680 --> 00:06:54,560
+The professor is looking for you, go on in.
+
+52
+00:06:54,560 --> 00:06:55,200
+Okay.
+
+53
+00:06:56,120 --> 00:06:56,920
+Quickly.
+
+54
+00:07:08,040 --> 00:07:11,040
+Hello, I'm Ai Ashira Akethananrakul.
+
+55
+00:07:11,240 --> 00:07:13,240
+Today, I will present my project titled
+
+56
+00:07:13,240 --> 00:07:16,520
+I Saw You in My Dream: You, Me, Dreams, Us.
+
+57
+00:07:16,720 --> 00:07:18,120
+Now, let me talk about the logline.
+
+58
+00:07:18,120 --> 00:07:19,280
+The logline of this story is
+
+59
+00:07:19,280 --> 00:07:22,520
+Boss is a Communication Arts student
+
+60
+00:07:22,520 --> 00:07:25,760
+and he starts to have weird dreams.
+
+61
+00:07:48,240 --> 00:07:48,960
+How was it?
+
+62
+00:07:49,760 --> 00:07:51,760
+It was fine... I guess.
+
+63
+00:07:51,760 --> 00:07:52,960
+I thought you were going to be late.
+
+64
+00:07:52,960 --> 00:07:54,160
+It's a good thing my brother dropped you off.
+
+65
+00:07:59,480 --> 00:08:00,960
+That's the sandwich I gave P' Yu this morning.
+
+66
+00:08:00,960 --> 00:08:01,440
+Yeah.
+
+67
+00:08:01,440 --> 00:08:03,320
+P'Yu came to cheer you on during your presentation,
+
+68
+00:08:03,720 --> 00:08:05,080
+but he had to go back to work.
+
+69
+00:08:06,200 --> 00:08:06,720
+Really?
+
+70
+00:08:09,040 --> 00:08:10,520
+Yeah, he asked me to give you this.
+
+71
+00:08:10,520 --> 00:08:12,760
+He said you haven't eaten anything since this morning.
+
+72
+00:08:34,280 --> 00:08:34,800
+What do you think?
+
+73
+00:08:35,080 --> 00:08:35,640
+I think it's okay.
+
+74
+00:08:35,640 --> 00:08:36,120
+Alright then.
+
+75
+00:08:37,120 --> 00:08:38,360
+Okay, let's set up the scene.
+
+76
+00:08:40,600 --> 00:08:42,600
+Excuse me, are you P' Yu?
+
+77
+00:08:42,800 --> 00:08:43,560
+Oh, yes.
+
+78
+00:08:43,560 --> 00:08:44,680
+Someone left something for you.
+
+79
+00:08:45,960 --> 00:08:46,680
+Who?
+
+80
+00:08:46,880 --> 00:08:48,000
+A customer wanted to give it to you.
+
+81
+00:08:49,160 --> 00:08:50,360
+Oh, okay. Thank you.
+
+82
+00:09:02,440 --> 00:09:06,920
+(Kiddo: Sent your favorite mango sticky rice, eat it!!)
+
+83
+00:09:19,040 --> 00:09:20,000
+Wow,
+
+84
+00:09:21,360 --> 00:09:22,280
+it's really crowded.
+
+85
+00:09:24,120 --> 00:09:24,920
+Where should we sit?
+
+86
+00:09:28,200 --> 00:09:28,960
+How about over there?
+
+87
+00:09:40,000 --> 00:09:40,680
+Where?
+
+88
+00:09:41,440 --> 00:09:43,440
+Over there, there's a fan too.
+
+89
+00:09:47,920 --> 00:09:48,840
+Look so delicious.
+
+90
+00:09:57,960 --> 00:09:58,560
+Hey!!
+
+91
+00:09:58,920 --> 00:09:59,440
+Hey!!
+
+92
+00:10:10,360 --> 00:10:12,920
+This is my senior from the badminton club, P' Wann.
+
+93
+00:10:13,680 --> 00:10:16,240
+Looks like we're running into each other again, huh?
+
+94
+00:10:17,680 --> 00:10:18,440
+You're...
+
+95
+00:10:20,480 --> 00:10:21,000
+Ai.
+
+96
+00:10:21,760 --> 00:10:22,960
+He's my childhood friend.
+
+97
+00:10:24,360 --> 00:10:25,320
+You've met before.
+
+98
+00:10:25,520 --> 00:10:26,040
+Hello.
+
+99
+00:10:28,000 --> 00:10:29,800
+Do you want anything special to eat?
+
+100
+00:10:29,800 --> 00:10:33,640
+I'll buy it for you as a thank you for helping me earlier.
+
+101
+00:10:34,200 --> 00:10:35,280
+Oh, it's okay.
+
+102
+00:10:35,720 --> 00:10:36,840
+I'll go have a look myself.
+
+103
+00:10:36,840 --> 00:10:39,120
+No, really, I want to buy it for you.
+
+104
+00:10:46,920 --> 00:10:48,920
+Alright, anything is fine then.
+
+105
+00:10:49,320 --> 00:10:50,920
+Okay, I'll choose something for you.
+
+106
+00:10:50,920 --> 00:10:51,480
+Sure.
+
+107
+00:10:52,240 --> 00:10:54,240
+Wow, P' Wann, you didn't even offer to buy me anything.
+
+108
+00:10:54,520 --> 00:10:56,520
+Well, if you want something, just buy it yourself.
+
+109
+00:10:57,400 --> 00:10:58,880
+Double standards!
+
+110
+00:10:59,840 --> 00:11:02,240
+Alright, follow me, let's go pick something out. My treat.
+
+111
+00:11:02,480 --> 00:11:03,480
+Thanks.
+
+112
+00:11:12,240 --> 00:11:14,840
+I think P' Wann is interested in you.
+
+113
+00:11:16,480 --> 00:11:17,600
+What are you talking about?
+
+114
+00:11:18,240 --> 00:11:20,800
+I think he just felt sorry for me earlier.
+
+115
+00:11:21,200 --> 00:11:23,200
+I remember from that day,
+
+116
+00:11:23,720 --> 00:11:25,720
+he intentionally hit the shuttlecock at your head
+
+117
+00:11:25,960 --> 00:11:27,440
+maybe because he wanted to talk to you.
+
+118
+00:11:27,440 --> 00:11:28,400
+You're exaggerating.
+
+119
+00:11:28,800 --> 00:11:31,440
+If it had been a golf ball instead, my head would have been dented.
+
+120
+00:11:33,880 --> 00:11:35,120
+You deserve to be hit by a golf ball.
+
+121
+00:11:46,360 --> 00:11:49,640
+Hey,  Last night while I was researching for the project,
+
+122
+00:11:50,640 --> 00:11:52,640
+I found some scary footage,
+
+123
+00:11:53,720 --> 00:11:55,360
+it was exactly the same as my story.
+
+124
+00:11:57,600 --> 00:11:58,760
+Let me show you.
+
+125
+00:12:04,600 --> 00:12:07,560
+(Well, the story that my grandma told me)
+
+126
+00:12:07,560 --> 00:12:10,160
+(is that my grandpa used to dream about the future.)
+
+127
+00:12:10,160 --> 00:12:13,600
+(I never believed it until one day)
+
+128
+00:12:13,600 --> 00:12:15,720
+(my grandpa was caught in a gas explosion.)
+
+129
+00:12:15,720 --> 00:12:20,240
+(And in the morning, he told my grandma that)
+
+130
+00:12:20,240 --> 00:12:22,520
+(he had dreamed about the incident.)
+
+131
+00:12:22,520 --> 00:12:24,440
+(Oh, that’s exciting!)
+
+132
+00:12:24,440 --> 00:12:29,560
+(Yes, and now I’ve dreamed of someone I love being in danger.)
+
+133
+00:12:29,560 --> 00:12:31,160
+(What did you dream about?)
+
+134
+00:12:31,160 --> 00:12:34,000
+(I dreamt that…)
+
+135
+00:12:35,280 --> 00:12:38,360
+Whoa, what is this?
+
+136
+00:12:38,360 --> 00:12:39,040
+That’s it?
+
+137
+00:12:39,040 --> 00:12:41,760
+Yeah, that's the problem. I can't find the second tape.
+
+138
+00:12:42,160 --> 00:12:43,600
+You don't actually think this is real, do you?
+
+139
+00:12:43,600 --> 00:12:44,520
+Who knows?
+
+140
+00:12:45,200 --> 00:12:46,840
+I want to tell you that...
+
+141
+00:12:46,840 --> 00:12:47,920
+I want to find this woman.
+
+142
+00:12:47,920 --> 00:12:50,000
+There it is, I knew it.
+
+143
+00:12:50,920 --> 00:12:52,320
+Can you really trust it?
+
+144
+00:12:53,160 --> 00:12:55,720
+It's going to be like last time.
+
+145
+00:12:57,680 --> 00:13:01,120
+I know, but I think this is the only way
+
+146
+00:13:01,120 --> 00:13:02,480
+to understand my dreams.
+
+147
+00:13:06,320 --> 00:13:08,080
+But the clip is really old.
+
+148
+00:13:08,440 --> 00:13:10,000
+Where should we go to find her?
+
+149
+00:13:13,760 --> 00:13:15,280
+Or maybe you could try finding someone else?
+
+150
+00:13:15,280 --> 00:13:17,280
+Here you go.
+
+151
+00:13:17,960 --> 00:13:22,720
+Minced pork basil with no chili and a runny fried egg.
+
+152
+00:13:22,960 --> 00:13:24,040
+Your favorite.
+
+153
+00:13:25,040 --> 00:13:25,800
+Thank you.
+
+154
+00:13:27,920 --> 00:13:28,880
+Did you tell him that?
+
+155
+00:13:30,160 --> 00:13:31,280
+What were you guys talking about?
+
+156
+00:13:31,760 --> 00:13:34,240
+Oh, nothing special, just chatting.
+
+157
+00:13:34,240 --> 00:13:36,200
+Talking about wanting to go on a trip.
+
+158
+00:13:36,920 --> 00:13:38,920
+Where to? I want to go too.
+
+159
+00:13:45,280 --> 00:13:51,400
+So, what’s the plan after this?
+
+160
+00:13:54,280 --> 00:13:55,800
+We don’t have any plans yet, P’ Wann.
+
+161
+00:13:57,440 --> 00:13:58,920
+How about we play badminton?
+
+162
+00:14:00,480 --> 00:14:02,480
+Ai, would you like to join us?
+
+163
+00:14:03,640 --> 00:14:05,960
+Oh, no thanks.
+
+164
+00:14:06,200 --> 00:14:08,840
+I’m tired and just want to go home and rest.
+
+165
+00:14:08,840 --> 00:14:11,520
+Let me give you a ride home.
+
+166
+00:14:44,680 --> 00:14:46,400
+Thanks for the ride.
+
+167
+00:14:46,600 --> 00:14:47,800
+My pleasure, Ai.
+
+168
+00:14:51,400 --> 00:14:52,920
+Have a safe trip home, P’ Wann.
+
+169
+00:14:53,800 --> 00:14:54,560
+Will do.
+
+170
+00:14:55,800 --> 00:14:56,280
+Hey,
+
+171
+00:14:57,280 --> 00:14:59,280
+can I get your contact information?
+
+172
+00:15:08,280 --> 00:15:09,120
+Sure.
+
+173
+00:15:14,360 --> 00:15:15,000
+Here you go.
+
+174
+00:15:22,600 --> 00:15:23,880
+I'll be in touch.
+
+175
+00:15:25,040 --> 00:15:25,840
+Sure.
+
+176
+00:15:26,720 --> 00:15:27,600
+Good luck.
+
+177
+00:15:28,200 --> 00:15:29,160
+See you.
+
+178
+00:15:43,880 --> 00:15:47,320
+Wow, you’re quite the charmer, huh?
+
+179
+00:15:47,320 --> 00:15:48,800
+What the hell do you mean?
+
+180
+00:15:49,680 --> 00:15:51,400
+Let’s go, I'm going to go in my house.
+
+181
+00:15:56,200 --> 00:15:58,200
+Can I get your contact?
+
+182
+00:15:58,200 --> 00:16:01,120
+Can I get your contact?
+
+183
+00:16:02,000 --> 00:16:03,280
+Really, though.
+
+184
+00:16:03,280 --> 00:16:04,840
+You already have it, why are you asking?
+
+185
+00:16:09,360 --> 00:16:11,840
+Oh, just a senior from my badminton club.
+
+186
+00:16:12,480 --> 00:16:13,400
+Okay.
+
+187
+00:16:13,600 --> 00:16:16,760
+I bought some snacks for you, want to eat together?
+
+188
+00:16:18,360 --> 00:16:20,000
+You go ahead.
+
+189
+00:16:20,000 --> 00:16:21,560
+I'm trying to lose weight these days.
+
+190
+00:16:22,240 --> 00:16:24,240
+You? Trying to lose weight?
+
+191
+00:16:24,240 --> 00:16:25,280
+Seriously?
+
+192
+00:16:26,760 --> 00:16:29,400
+Do you remember the lowest weight you’ve been since you were born?
+
+193
+00:16:29,600 --> 00:16:33,920
+Right after I was born, I weighed two kilos.
+
+194
+00:16:36,240 --> 00:16:37,760
+Alright, I’m going to bed.
+
+195
+00:16:38,080 --> 00:16:38,720
+Fine.
+
+196
+00:16:39,760 --> 00:16:40,640
+Good night.
+
+197
+00:16:42,080 --> 00:16:43,120
+Would you like to eat together?
+
+198
+00:16:47,120 --> 00:16:48,280
+I'm tired.
+
+199
+00:16:48,280 --> 00:16:49,880
+I woke up early for work today.
+
+200
+00:16:51,440 --> 00:16:53,440
+I’ll go to bed now.
+
+201
+00:16:56,120 --> 00:16:58,000
+But I bought luk chup.
+
+202
+00:16:59,720 --> 00:17:00,600
+You want some?
+
+203
+00:17:01,280 --> 00:17:02,000
+Luk chup?
+
+204
+00:17:03,760 --> 00:17:08,840
+Fine, I'll have some so someone won't be sad.
+
+205
+00:17:09,920 --> 00:17:11,040
+Come on.
+
+206
+00:17:21,080 --> 00:17:21,560
+Here you go.
+
+207
+00:17:21,920 --> 00:17:22,880
+Thanks.
+
+208
+00:17:33,600 --> 00:17:36,640
+Be careful you might go broke if you're so nice to everyone.
+
+209
+00:17:40,720 --> 00:17:42,400
+I'm not nice to everyone.
+
+210
+00:17:55,680 --> 00:17:57,080
+You can slowly eat it.
+
+211
+00:18:03,480 --> 00:18:04,400
+Why?
+
+212
+00:18:05,880 --> 00:18:09,120
+Why should I be nicer to other people than you?
+
+213
+00:18:11,840 --> 00:18:13,840
+What are you saying?
+
+214
+00:18:14,800 --> 00:18:17,120
+What? I haven't done anything yet?
+
+215
+00:18:25,600 --> 00:18:26,280
+Ai.
+
+216
+00:18:30,640 --> 00:18:32,280
+I want to go for a holiday somewhere.
+
+217
+00:18:34,040 --> 00:18:36,840
+Can you go with me?
+
+218
+00:18:41,200 --> 00:18:43,200
+Please?
+
+219
+00:18:43,400 --> 00:18:46,200
+Uh.. Fine.
+
+220
+00:18:47,560 --> 00:18:49,560
+Deal, pinky promise.
+
+221
+00:18:49,840 --> 00:18:50,760
+Fine.
+
+222
+00:18:59,680 --> 00:19:01,080
+Aren't you going to feed me some?
+
+223
+00:19:01,440 --> 00:19:02,360
+Feed me.
+
+224
+00:19:02,760 --> 00:19:03,280
+No.
+
+225
+00:19:03,280 --> 00:19:04,080
+I'm haven't had one piece yet.
+
+226
+00:19:04,080 --> 00:19:04,720
+No.
+
+227
+00:19:04,720 --> 00:19:05,760
+Come on, one piece.
+
+228
+00:19:05,760 --> 00:19:06,240
+No.
+
+229
+00:19:07,280 --> 00:19:09,280
+I bought it for you and I haven't had any yet.
+
+230
+00:19:20,960 --> 00:19:22,560
+Are you going on a trip?
+
+231
+00:19:22,560 --> 00:19:23,400
+Invite Ing to travel with us.
+
+232
+00:19:23,400 --> 00:19:24,680
+Rock, scissors, paper.
+
+233
+00:19:24,960 --> 00:19:25,440
+Yeah!
+
+234
+00:19:25,440 --> 00:19:26,880
+I want to go see the animals at the farm.
+
+235
+00:19:26,880 --> 00:19:28,040
+I want to ride a bicycle.
+
+236
+00:19:28,040 --> 00:19:28,920
+Wait for me.
+
+237
+00:19:28,920 --> 00:19:29,720
+Hey!
+
+238
+00:19:32,120 --> 00:19:33,000
+P' Yu.
+
+239
+00:19:33,000 --> 00:19:34,120
+Every time I help P' Yu.
+
+240
+00:19:34,120 --> 00:19:35,960
+I always get hurt instead.
+
+241
+00:19:35,960 --> 00:19:37,640
+Surprise!
+
+242
+00:19:38,200 --> 00:19:38,920
+P' Wann
+
+243
+00:19:38,920 --> 00:19:41,000
+Is that what friends do to each other?
+
+244
+00:19:41,000 --> 00:19:43,840
+Then don't you love me like I love you?
+
+245
+00:19:43,840 --> 00:19:45,720
+I'll feed you.
+
+246
+00:19:45,720 --> 00:19:47,400
+You don't have to worry about me that much.
+
+247
+00:19:47,400 --> 00:19:49,120
+How can I not be worried? You…
+
+
